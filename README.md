@@ -21,7 +21,7 @@ En este repositorio encontrarás conenidos relacionados con la página web de SI
 
 * :deciduous_tree: :evergreen_tree: **logos**: carpeta con los diferentes logos utilizados en estos documentos explicativos (README.md) del [repositorio github de SIMANFOR](https://github.com/simanfor) 
 * :book: :es: **SIMANFOR_web.pdf**: guía de manejo de la página web de SIMANFOR en español
-* :book: 🇬🇧 **SIMANFOR_web_EN.pdf**: guía de manejo de la página web de SIMANFOR en inglés
+* :book: 🇬🇧 **english/SIMANFOR_web.pdf**: guía de manejo de la página web de SIMANFOR en inglés
 
 ---
 

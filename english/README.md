@@ -21,7 +21,7 @@ In this repository, you will find content related to the SIMANFOR website and ho
 
 * :deciduous_tree: :evergreen_tree: **logos**: Folder containing various logos used in these explanatory documents (README.md) of the [SIMANFOR GitHub repository](https://github.com/simanfor)
 * :book: :es: **SIMANFOR_web.pdf**: Guide to using the SIMANFOR website in Spanish
-* :book: 🇬🇧 **SIMANFOR_web_EN.pdf**: Guide to using the SIMANFOR website in English
+* :book: 🇬🇧 **english/SIMANFOR_web.pdf**: Guide to using the SIMANFOR website in English
 
 ---
 
